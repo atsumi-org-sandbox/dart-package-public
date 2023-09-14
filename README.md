@@ -1,2 +1,4 @@
 # dart-package-public
-dart-package-private と同じ内容です.
+
+別パッケージからの参照用。　　
+dart-package-private もあります。
